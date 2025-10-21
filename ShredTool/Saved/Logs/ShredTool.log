@@ -1557,3 +1557,22 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.21-17.27.49:008][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1666.759399
 [2025.10.21-17.27.50:011][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.21-17.27.50:011][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1667.426025, Update Interval: 301.312897
+[2025.10.21-17.33.32:542][473]LogSlate: Window 'Message' being destroyed
+[2025.10.21-17.33.32:547][473]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2025.10.21-17.33.35:850][473]LogSlate: Window 'Message' being destroyed
+[2025.10.21-17.33.35:855][473]Message dialog closed, result: Yes, title: Message, text: The default configuration file for these settings is not currently writable. Would you like to make it writable?
+[2025.10.21-17.33.41:245][473]LogSlate: Window 'Message' being destroyed
+[2025.10.21-17.33.41:250][473]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into revision control this would affect other developers.
+[2025.10.21-17.33.41:264][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2019.013550
+[2025.10.21-17.33.41:584][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.33.41:584][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2019.320190, Update Interval: 342.732635
+[2025.10.21-17.33.44:919][680]LogSlate: Window 'Message' being destroyed
+[2025.10.21-17.33.44:924][680]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2025.10.21-17.33.45:556][680]LogSlate: Window 'Message' being destroyed
+[2025.10.21-17.33.45:564][680]Message dialog closed, result: Yes, title: Message, text: The default configuration file for these settings is not currently writable. Would you like to make it writable?
+[2025.10.21-17.33.46:258][680]LogSlate: Window 'Message' being destroyed
+[2025.10.21-17.33.46:266][680]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into revision control this would affect other developers.
